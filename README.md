@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi 👋 I'm Raul
 
 - 🔭 This is my github profile, its a bit abandoned but I'm working to revert it!
 - 🌱 I’m currently learning Rust, I'm really interested in starting work with Blockchain eco-system
