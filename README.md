@@ -3,7 +3,7 @@
 - 🔭 This is my github profile, its a bit abandoned but I'm working to revert it!
 - 🌱 I’m currently learning Rust, I'm really interested in starting work with Blockchain eco-system
 - 👯 I’m looking to collaborate on repositories related to Blockchain or Artifical Intelligence (AI) 
-- ⚡ Fun fact: I do really enjoy mountaing bike and surfing in my free time
+- ⚡ Fun fact: I do really enjoy mountain bike and surfing in my free time
 
 <!--
 **raulds/raulds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
