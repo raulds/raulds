@@ -1,5 +1,5 @@
-## Hi 👋 I'm Raul
-
+## Hello, My name is Raul...
+I do have a few years of experience fo systems programming using C++ for embedded linux systems, also a backend development experience using nodejs/typescript.
 
 <!--
 **raulds/raulds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
